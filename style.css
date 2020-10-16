@@ -8,9 +8,7 @@ p.quote {
 }
 
 body{
-    background: #deb423;
-    
-
+    background-image: url("vintagepatterns.png");
 }
 
 div {
@@ -80,5 +78,3 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-
-
